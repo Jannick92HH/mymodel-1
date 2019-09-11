@@ -1,3 +1,4 @@
+; this is my model
 to setup
   clear-all
   create-turtles 9 [
